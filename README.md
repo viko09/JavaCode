@@ -1,3 +1,3 @@
 # JavaCode
 
-Inside src/ you can find some code of the basics
+Hello! In this code are the basics of Java
