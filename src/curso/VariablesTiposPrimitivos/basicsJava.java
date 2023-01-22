@@ -1,4 +1,4 @@
-package curso;
+package curso.VariablesTiposPrimitivos;
 
 import java.util.Scanner;
 
@@ -99,7 +99,7 @@ Ctrl + click: nos lleva a la definición de la variable
         /*
          Tipos Primitivos en Java:
 
-            byte: 8 bits
+            1 byte: 8 bits
             short: 16 bits
             int: 32 bits
             long: 64 bits
